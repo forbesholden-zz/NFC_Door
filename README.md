@@ -1,7 +1,7 @@
 NFC_Door
 ========
 
-Code to run on an Arduino Uno and Adafruit NFC Shield actuated door mechanism.
+Code to run on an Arduino Uno and Adafruit NFC Shield to control a door lock mechanism.
 
 Adafruit NFC Products:
 - https://www.adafruit.com/products/364
